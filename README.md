@@ -1,2 +1,2 @@
 # polls-website
-This is a simple django polls application.
+This is a simple django polls web application.
